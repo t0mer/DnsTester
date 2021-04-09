@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DNSTester\DNSTester\bin\Debug\DNSTester.exe.config
+C:\Users\Admin\source\repos\DNSTester\DNSTester\bin\Debug\DNSTester.exe
+C:\Users\Admin\source\repos\DNSTester\DNSTester\bin\Debug\DNSTester.pdb
+C:\Users\Admin\source\repos\DNSTester\DNSTester\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\DNSTester\DNSTester\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.TesterUI.resources
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.Properties.Resources.resources
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.csproj.CopyComplete
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.exe
+C:\Users\Admin\source\repos\DNSTester\DNSTester\obj\Debug\DNSTester.pdb
+C:\Users\Admin\source\repos\DNSTester\DNSTester\bin\Debug\Servers.xml
